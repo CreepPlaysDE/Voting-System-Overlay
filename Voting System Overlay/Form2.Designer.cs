@@ -14,6 +14,8 @@
             this.f2_vote1 = new System.Windows.Forms.Label();
             this.f2_vote3 = new System.Windows.Forms.Label();
             this.f2_vote2 = new System.Windows.Forms.Label();
+            this.picoboxPB = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.picoboxPB)).BeginInit();
             this.SuspendLayout();
             // 
             // f2_vote1
@@ -58,12 +60,21 @@
             this.f2_vote2.Text = "Vote #2";
             this.f2_vote2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // picoboxPB
+            // 
+            this.picoboxPB.Location = new System.Drawing.Point(0, 44);
+            this.picoboxPB.Name = "picoboxPB";
+            this.picoboxPB.Size = new System.Drawing.Size(1920, 5);
+            this.picoboxPB.TabIndex = 3;
+            this.picoboxPB.TabStop = false;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(1920, 50);
+            this.Controls.Add(this.picoboxPB);
             this.Controls.Add(this.f2_vote2);
             this.Controls.Add(this.f2_vote3);
             this.Controls.Add(this.f2_vote1);
@@ -72,6 +83,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Greenscreen";
             this.Load += new System.EventHandler(this.Form2_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.picoboxPB)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -82,5 +94,6 @@
         public System.Windows.Forms.Label f2_vote1;
         public System.Windows.Forms.Label f2_vote3;
         public System.Windows.Forms.Label f2_vote2;
+        private System.Windows.Forms.PictureBox picoboxPB;
     }
 }

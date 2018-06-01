@@ -49,7 +49,11 @@ namespace Voting_System_Overlay
         private void b_stop_Click(object sender, EventArgs e)
         {
             // close Greenscreen
-            f2.Close();
+            f2.Hide();
+
+            // Switch Enable Buttons
+            b_start.Enabled = true;
+            b_stop.Enabled = false;
         }
     }
 }

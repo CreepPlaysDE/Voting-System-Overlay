@@ -28,5 +28,8 @@ namespace Voting_System_Overlay
             f2_vote3.Text = Form1.vote3;
         }
 
+
+
+
     }
 }
