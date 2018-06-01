@@ -1,0 +1,11 @@
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\bin\Debug\Voting System Overlay.exe.config
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\bin\Debug\Voting System Overlay.exe
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\bin\Debug\Voting System Overlay.pdb
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting System Overlay.csprojResolveAssemblyReference.cache
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting_System_Overlay.Form1.resources
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting_System_Overlay.Properties.Resources.resources
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting System Overlay.csproj.GenerateResource.Cache
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting System Overlay.csproj.CoreCompileInputs.cache
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting System Overlay.exe
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting System Overlay.pdb
+C:\Users\schal\Desktop\kaischallenberg.de\Stream\Voting System Overlay\Voting System Overlay\obj\Debug\Voting_System_Overlay.Form2.resources
